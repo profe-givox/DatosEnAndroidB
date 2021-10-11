@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatosEnAndroidB</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="external_storage">External Storage</string>
+    <string name="open_file">Open File</string>
+    <string name="save_file">Save File</string>
+</resources>
